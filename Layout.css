@@ -1,7 +1,15 @@
 ul {
-    background-color: aquamarine;
+    background-color: black;
 }
 
-li{
-    color: rgb(255, 0, 0);
+li {
+    color: white;
+}
+
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
 }
