@@ -3,6 +3,11 @@ p {
     background-color: #c4c4c4;
 }
 
+.speciaal {
+    width: 25%;
+    border: turquoise dotted 3px;
+}
+
 h1 {
     text-align: center;
 }
