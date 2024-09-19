@@ -3,7 +3,11 @@ p {
     background-color: #c4c4c4;
 }
 
-
+.speciaal {
+    border: 3px ridge turquoise;
+    width: 25%;
+    margin-left: 10%;
+}
 
 
 
