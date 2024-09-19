@@ -3,25 +3,15 @@ p {
     background-color: #c4c4c4;
 }
 
+
+
 .speciaal {
-    border: 3px ridge turquoise;
-    width: 25%;
-    margin-left: 10%;
-}
-
-
-
-
-
-
-
-/*.speciaal {
     width: 25%;
     border: turquoise ridge 10px;
     background-color: lightcyan;
     padding: 5px;
     margin-left: 10%;
-}*/
+}
 
 div {
     border: turquoise dashed 5px;
