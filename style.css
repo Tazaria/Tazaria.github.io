@@ -7,4 +7,5 @@ p {
     border: black;
     border-style: dashed;
     color: white;
+    margin: 10px;
 }
