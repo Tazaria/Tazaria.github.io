@@ -13,3 +13,9 @@ p {
     padding-bottom: 20px;
     width: 50%;
 }
+
+.anders {
+  color: brown;
+  background-color: azure;
+  border: none;
+}
