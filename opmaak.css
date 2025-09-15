@@ -14,8 +14,8 @@ p {
     width: 50%;
 }
 
-.anders {
-  color: brown;
-  background-color: azure;
-  border: none;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
