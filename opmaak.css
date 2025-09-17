@@ -42,6 +42,6 @@ ul li a:hover:not(.active) {
   background-color: blue;
 }
 
-.imgTest {
+#imgTest {
   margin: auto;
 }
