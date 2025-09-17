@@ -34,7 +34,7 @@ ul li a {
   padding: 2% 3%;
 }
 
-ul li a:hover {
+ul li a:hover:not(.active) {
   background-color: #0000b2;
 }
 
