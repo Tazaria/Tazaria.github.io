@@ -43,6 +43,6 @@ ul li a:hover:not(.active) {
 }
 
 #imgTest {
-  position: relative;
-  left: auto;
+  display: block;
+  margin: auto;
 }
