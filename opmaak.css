@@ -44,4 +44,5 @@ ul li a:hover:not(.active) {
 
 #imgTest {
   margin: auto;
+  position: relative;
 }
