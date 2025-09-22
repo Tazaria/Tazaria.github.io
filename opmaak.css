@@ -47,7 +47,7 @@ ul li a:hover {
   margin: auto;
 }
 
-#imgDiv {
+.centerDiv {
   display: flex;
   justify-content: center;
 }
