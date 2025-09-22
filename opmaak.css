@@ -42,12 +42,7 @@ ul li a:hover {
   background-color: blue;
 }
 
-#imgBlock {
+.center {
   display: block;
   margin: auto;
-}
-
-.centerDiv {
-  display: flex;
-  justify-content: center;
 }
