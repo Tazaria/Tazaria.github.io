@@ -46,3 +46,8 @@ ul li a:hover {
   display: block;
   margin: auto;
 }
+
+#centerDiv {
+  display: flex;
+  justify-content: center;
+}
