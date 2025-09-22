@@ -37,3 +37,17 @@ ul li a {
 ul li a:hover {
   background-color: #0000b2;
 }
+
+.active {
+  background-color: blue;
+}
+
+#imgBlock {
+  display: block;
+  margin: auto;
+}
+
+#imgDiv {
+  display: flex;
+  justify-content: center;
+}
